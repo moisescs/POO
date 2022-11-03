@@ -1,9 +1,11 @@
 package br.com.dio.aulas.poo;
 
+import br.com.dio.aulas.Heranca.Veiculo;
+
 /**
  * carro
  */
-public class Carro {
+public class Carro extends Veiculo{
 
     String modelo;
     String cor;
