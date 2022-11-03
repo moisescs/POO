@@ -1,4 +1,4 @@
-package br.com.dio.aulas.poo.associacoes;
+package br.com.dio.aulas.associacoes;
 
 public class Compra {
 
